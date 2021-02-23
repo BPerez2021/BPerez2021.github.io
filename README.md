@@ -24,4 +24,4 @@ So I found my texts, edited it down and
 
 -[The Code]()
 
--[Some of My Favorite Generated Lines]()
+-[Some of My Favorite Generated Lines](Fav-Generations.md)
