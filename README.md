@@ -12,9 +12,16 @@ Then, when doing to research for my graduate project which relates to the Greek 
 
 ### The Process
 
+**_Note: this project is still in progress so the text still needs more editing and I am still working on getting the code to generate when clicking on the first bullet under "The Project"_**
+
+I find myself getting frustrated with the GPT-2 on Google Colab so intead I decided I wanted to rather combine Exercise 1- Markovify- with Exercise 3- Creating a HTML, in my case using Github.
+
+So I found my texts, edited it down and 
 
 ### The Project
 
 -[Generation]()
+
 -[The Code]()
+
 -[Some of My Favorite Generated Lines]()
