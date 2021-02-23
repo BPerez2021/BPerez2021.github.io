@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to the Generated Text Project: BPerez Edition
 
-You can use the [editor on GitHub](https://github.com/BPerez2021/BPerez2021.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I was tasked with creating a generated text novel comprised of multiple texts. In the end, my creation is a combination of Greek Mythology and Beginner's American History.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Process
 
-### Markdown
+During initial brainstorming and beginning the project I wanted to create an Alchemy generated book, but I was not happy with the texts I found. I did not think they would properly mesh and had the correct content I wanted to randomly generate together.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I, instead, tried to think of something else I could do, and was drawn to the example the [Zach Walden](https://youtu.be/oeL1u7n2d2s?list=PLu8zaGaJFFioMnKLLO-3_rww8VqtTyonf) had in his example of "Marxist Recipes." Going through though, I could not fid something that called to me or intrigued me enough to combine with recipes.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BPerez2021/BPerez2021.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Then, when doing to research for my graduate project which relates to the Greek Mythological figure Medusa, I was intrigued with the idea of placing the mythological figures within history-landing on American History. Due to the fact that within the myths the gods and goddesses interact and intervene on the "mortals" I thought I would just, in a way, create some new myths, placing the figures within American History. Although with the random generation it may fall into a more alternate timeline due to random generation most likely rearranging events, people, and timelines.
