@@ -20,8 +20,8 @@ So I found my texts, edited it down and
 
 ### The Project
 
--[Generation]()
+-[Example Generation](ExampleofGeneration.md)
 
--[The Code]()
+-[The Code](Creative_Project_1.ipynb)
 
 -[Some of My Favorite Generated Lines](Fav-Generations.md)
