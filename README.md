@@ -16,12 +16,18 @@ Then, when doing to research for my graduate project which relates to the Greek 
 
 I find myself getting frustrated with the GPT-2 on Google Colab so intead I decided I wanted to rather combine Exercise 1- Markovify- with Exercise 3- Creating a HTML, in my case using Github.
 
-So I found my texts, edited it down and 
+So I found my texts and edited it down.
+
+Then I used the Markovify method to create the combined generated text. Then I decided to use the third exercise of website creation to document and share the project.
+
+### Brython
+
+I want to play with [Brython](https://brython.info/static_tutorial/en/index.html) in an attempt to allow the users of the site to generate their own generations when a link is clicked. I would like to work on this in the future when I have the time to properly play with the code. 
 
 ### The Project
 
 -[Example Generation](ExampleofGeneration.md)
 
--[The Code](Creative_Project_1.ipynb)
+-[The Code](https://github.com/BPerez2021/BPerez2021.github.io)
 
 -[Some of My Favorite Generated Lines](Fav-Generations.md)
